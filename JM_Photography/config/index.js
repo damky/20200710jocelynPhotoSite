@@ -6,10 +6,11 @@ module.exports = {
   siteTitleShort: 'JM Photography', // short_name for manifest
   siteHeadline:
     'Salem Utah based photographer available for individual or group portraits, engagements, bridals, senior pictures, etc.', // Headline for schema.org JSONLD
-  siteUrl: 'http://jocelyn.mckay.studios', // Domain of your site. No trailing slash!
+  siteUrl: 'http://jmphotography.mckay.studio', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/jmp-dark-logo.png', // Used for SEO and manifest
-  siteDescription: 'Image-heavy photography portfolio with colorful accents & great typography.',
+  siteDescription:
+    'Salem Utah based photographer available for individual or group portraits, engagements, bridals, senior pictures, etc.',
   author: 'Jocelyn McKay', // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
