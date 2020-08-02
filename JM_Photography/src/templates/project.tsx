@@ -120,7 +120,7 @@ const Project: React.FunctionComponent<PageProps> = ({ data: { project, images }
         </PBox>
       </Content>
       <PBox style={{ textAlign: 'center' }} py={10} px={[6, 6, 8, 10]}>
-        <h2>Want to start your own project?</h2>
+        <h2>Contact us to schedule your shoot!</h2>
         <a href="mailto:jocelyn@mckay.studio">
           <PButton color={project.color} py={4} px={8}>
             Contact Us

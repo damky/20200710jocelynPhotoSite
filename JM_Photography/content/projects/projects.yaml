@@ -4,8 +4,12 @@
   category: "Details"
   color: "black"
   images: "prices"
-  cover: "./prices/projects-prices-001.jpg"
-  desc: "I believe pricing should be simple for everyone. The shoot = $50/hr/person, capped at $150/hr. The edits = $1/per digital image. That's it. That way we can focus on the experience together."
+  cover: "./prices/projects-prices-006.jpg"
+  desc: "<p>I believe pricing should be simple for everyone. <strong>The shoot = $50/hr/person, capped at $150/hr. The edits = $1/per digital image</strong>. That's it. That way we can focus on the experience together.</p>
+  <p>Sometimes though, we'll introduce specials and deals. For instance, a <strong>half shoot</strong> would be $25 + $1 per photo of your choosing, including 30 minutes of shooting and one outfit.</p>
+  <p><strong>Full shoots</strong> are $50 + $1 per photo of your choosing, and includes 1 hour of shooting and 2-3 outfit changes.</p>
+  <p><strong>Engagements</strong> are $125 + $1 per photo of your choosing besides what comes in the package. The package includes 1 hour of shooting, 2-3 outfit changes, and 50 photos.</p>
+  <p><strong>Families or groups</strong> of 3 or more are $150 + $1 per photo after what is included in the package. Family/Group packages include no time limit, 3 group portraits, 2 individual portraits for each member, 1 couple/siblings portrait.</p>"
 - title: "Testimonials"
   title_detail: "Testimonials - What people are saying about JM Photography?"
   slug: "/testimonials"
