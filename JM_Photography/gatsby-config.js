@@ -55,14 +55,14 @@ module.exports = {
         instagram_id: process.env.BUSINESS_ID,
       },
     },
-    {
-      resolve: `gatsby-source-sanity`,
-      options: {
-        projectId: `h9ut19f0`,
-        dataset: `production`,
-        graphqlTag: 'default',
-      },
-    },
+    // {
+    //   resolve: `gatsby-source-sanity`,
+    //   options: {
+    //     projectId: `h9ut19f0`,
+    //     dataset: `production`,
+    //     graphqlTag: 'default',
+    //   },
+    // },
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
