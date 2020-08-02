@@ -69,4 +69,8 @@ cypress/e2e/build
 
 .DS_Store
 
+# notes for site template
 lekoarts-README.md
+
+# sanity.io
+cms/
